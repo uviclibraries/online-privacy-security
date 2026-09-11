@@ -10,5 +10,4 @@ Please review the following [Introductory Slides](https://docs.google.com/presen
 Resize Your Laptop Screen for easier access to [step by step tutorial](https://youtu.be/Igk5hZUfzN0){:target="_blank"} (2 min):
 <iframe width="700" height="394" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# UPDATE
-[NEXT STEP: Excel Basics](basics-data-cleaning.html){: .btn .btn-blue }
+[NEXT STEP: Disable App Tracking](1-app-tracking.html){: .btn .btn-blue }
