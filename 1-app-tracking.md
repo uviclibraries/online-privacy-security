@@ -9,7 +9,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # Stop Apps From Tracking You
 
-In this activity, you'll reduce the amount of information that apps can collect about you by disabling cross-app tracking. This helps limit the creation of a detailed advertising profile and makes it harder for companies to connect your activity across different apps.
+In this activity, you'll reduce the amount of information that apps can collect about you by disabling cross-app tracking. This helps limit the ability of advertisers to create a detailed advertising profile for you and makes it harder for companies to connect your activity across different apps.
 
 If you have any questions or get stuck, please ask the instructor for assistance.
 
