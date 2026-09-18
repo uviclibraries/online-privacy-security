@@ -19,10 +19,10 @@ If you have any questions or get stuck, please ask the instructor for assistance
   - [**Brave**](https://brave.com/download/){:target="_blank"}
   - [**Firefox**](https://www.firefox.com/en-CA/){:target="_blank"} 
 - Both **Brave** & **Firefox** include built-in protections that “randomize” your browser fingerprint
-- Download and install your preferred privacy-first browser
+- Download and install either **Brave** & **Firefox**
 - Open the new browser once the installation is complete
 
-<img src="images/2-shielded-browser-1.png" style="float:right;width:300px;" alt="ad blockers comic">
+<img src="images/2-shielded-browser-1.png" style="float:right;width:350px;" alt="decorative">
 
 ## Must-Have Extensions 
  
@@ -55,12 +55,11 @@ Install an ad blocker extension such as **uBlock Origin** or **Privacy Badger**.
 Now let's see what your new privacy tool is actually doing.
 
 1. Visit a website that contains advertisements, such as a news or magazine website.
-2. Click the **uBlock Origin** or **Privacy Badger** icon in your browser toolbar.
-    ![Browser extension](images/2-shielded-browser-2.png)
-3. Look at the information provided by the extension. Depending on which extension you installed, you may be able to see the number of requests, advertisements, or trackers that have been blocked.
-4. Visit two or three different websites and check the extension on each website.
-5. Record the number of blocked requests or trackers that you see.
-6. Compare the results between the websites.
+2. Click the **uBlock Origin** or **Privacy Badger** icon in your browser toolbar. <img src="images/2-shielded-browser-2.png" style="float:right;" alt="decorative">
+4. Look at the information provided by the extension. Depending on which extension you installed, you may be able to see the number of requests, advertisements, or trackers that have been blocked.
+5. Visit two or three different websites and check the extension on each website.
+6. Record the number of blocked requests or trackers that you see.
+7. Compare the results between the websites.
 
 These tools block “trackers” from loading at all, which not only protects your data but also makes your web pages load significantly faster
 
