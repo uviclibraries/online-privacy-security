@@ -5,7 +5,7 @@ nav_order: 3
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-<img src="images/tinkercad-keychain-01.png" style="float:right;width:200px;height:200px;" alt="tinkercad logo"> 
+<img src="images/01-disable-tracking-logo.jpg" style="float:right;width:200px;height:200px;" alt="decorative"> 
 
 # Activity 1: Stop Apps From Tracking You
 
@@ -42,7 +42,7 @@ Android
 This makes it significantly more difficult for advertisers and data brokers to link your activity across different apps.
 {: .step}
 
-Discussion
+Reflection
 {: .label .label-step}
 After completing this activity, consider the following questions:
 
