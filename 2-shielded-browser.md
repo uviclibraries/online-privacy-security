@@ -22,9 +22,11 @@ If you have any questions or get stuck, please ask the instructor for assistance
 - Download and install your preferred privacy-first browser
 - Open the new browser once the installation is complete
 
+<img src="images/2-shielded-browser-1.png" style="float:right;width:300px;" alt="ad blockers comic">
+
 ## Must-Have Extensions 
-<img src="images/2-shielded-browser-1.png" style="float:right;width:300px;" alt="ad blockers comic"> 
-Install an ad blocker extension such as [**uBlock Origin**](https://ublockorigin.com/){:target="_blank"} or [**Privacy Badger**](https://privacybadger.org/){:target="_blank"}. (You can still download these even if you're using a different browser than Brave or Firefox)
+ 
+Install an ad blocker extension such as **uBlock Origin** or **Privacy Badger**. You can still download these even if you're using a different browser than Brave or Firefox.
 
 ## If you chose Brave
 
