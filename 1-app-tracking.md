@@ -7,15 +7,15 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/01-disable-tracking-logo.jpg" style="float:right;width:200px;height:200px;" alt="decorative"> 
 
-# Activity 1: Stop Apps From Tracking You
+# Stop Apps From Tracking You
 
 In this activity, you'll reduce the amount of information that apps can collect about you by disabling cross-app tracking. This helps limit the creation of a detailed advertising profile and makes it harder for companies to connect your activity across different apps.
 
 If you have any questions or get stuck, please ask the instructor for assistance.
 
-### Why are we doing this?
+## Why are we doing this?
 
-Many popular apps collect information about your activity and share it with advertising networks. Turning off app tracking reduces this data sharing and helps protect your privacy.
+Many popular apps collect information about your activity and sell it with advertising networks. This is often how "free" apps pay for their ongoing development. Turning off app tracking reduces this data sharing and helps protect your privacy.
 
 ---
 
