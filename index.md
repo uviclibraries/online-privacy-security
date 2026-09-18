@@ -23,12 +23,11 @@ nav_order: 1
 
 At the end of this workshop, you will have:
 
-1. **Calculated Audio Streaming Data Usage**: Independently calculate the estimated monthly data usage of a phone that continuously streams audio to the cloud, comparing your result against standard cellular data caps to prove why ambient recording for ads is unfeasible.
-5. **Mobile Device Lockdown**: Navigated to your to smartphone's settings menu to locate and disable cross-app tracking (iOS) or permanently delete your Advertising ID (Android).
+1. **Mobile Device Lockdown**: Navigated to your to smartphone's settings menu to locate and disable cross-app tracking (iOS) or permanently delete your Advertising ID (Android).
 6. **OPTIONAL - Build an Isolated Browsing Environment**: Downloaded and install a privacy-first browser (Firefox or Brave) on your computer, installed the uBlock Origin browser extension, and verified successful installs by opening a known ad-heavy test webpage and seeing zero advertisements displayed.
 4. **Audited Personal Password Risk Level**: Reviewed three of your own critical online accounts (e.g., banking, email, social media) and calculate how "hackable" your current password habits for those specific platforms are.
+5. **Deploy and Test Local-First Grammar Checker**: Downloaded the Harper grammar checker to your local device, run a text-processing test while disconnected from the internet (airplane mode), and verified that the tool functions perfectly without a cloud connection.
 8. **Find Out If Any of Your Passwords Have Been Hacked**: Used the _Have I Been Pwned_ website to, find out if any of your passwords have been leaked by websites you use, and if so created a plan to change the passwords on those accounts, possibly using a password manager.
-9. **OPTIONAL - Install & Start using a Password Manager:** Installed password manager (such as Bitwarden or Apple's Passwords app), and generated at least three unique, random credentials for your existing online accounts during the workshop.
-10. **Deploy and Test Local-First Grammar Checker**: Downloaded the Harper grammar checker to your local device, run a text-processing test while disconnected from the internet (airplane mode), and verified that the tool functions perfectly without a cloud connection.
+10. **OPTIONAL - Install & Start using a Password Manager:** Installed password manager (such as Bitwarden or Apple's Passwords app), and generated at least three unique, random credentials for your existing online accounts during the workshop.
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
