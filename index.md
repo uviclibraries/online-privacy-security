@@ -11,14 +11,13 @@ nav_order: 1
 - Introductory presentation: 20 min
 - Hands-on activities: 30-50 min
 
+## Why Should I Care?
 <img src="images/phone-listening-to-me2-sm.png" style="float:right;width:350px;margin:10px;" alt="decorative">
 
-## Why Should I Care?
-
-- **Is Your Phone Listening:** Has something like this happened to you or someone you know? Your friend mentions that you should take a trip to the south pole, and an hour later, there it is, a “South Pole expidition” advertisments showing up as you browse the web… And you didn’t search for anything about the South Pole. So what’s happening here? We will discuss how this really happens and how you can stop it.
+- **Is Your Phone Listening:** Has something like this happened to you? Your friend mentions that you should take a trip to the south pole, and an hour later, there it is, a “South Pole expidition” advertisments showing up as you browse the web… And you didn’t search for anything about the South Pole. So what’s happening here? We will discuss how this really happens & how you can stop it.
 - **Hacked Account:** Have you ever had someone hack into one of your online accounts? If so you've been Pwned. We'll review how to solve this problem in the workshop.
 - **Ads Cluttering & Slowing Down Your Browser**: Are you tired of browsing the web, and being over run by ads that distract & clutter the web pages? If so we have some suggestions on how to fix these problems.  
-- **Privacy First Spell & Grammar Checking:** Do you want to stop Grammarly from sending your personal data to the clould to be processed for spelling and grammar mistakes? If not, we will introduce you to a privaicy first free alternative that runs in your laptop browser & does not use and cloud based servers.
+- **Privacy First Spell & Grammar Checking:** Do you want to stop Grammarly from sending your personal data to the clould? We will introduce you to a privaicy first free alternative that runs in your laptop browser & does not use cloud based servers.
 
 ## Learning objectives
 
