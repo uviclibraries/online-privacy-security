@@ -19,7 +19,7 @@ Many popular apps collect information about your activity and share it with adve
 
 ---
 
-iPhone
+iPhone Instructions
 {: .label .label-step}
 - Open the **Settings** app.
 - Scroll down and tap **Privacy & Security**.<br>
@@ -31,7 +31,7 @@ iPhone
 - This prevents apps from accessing your device's unique Advertising ID (IDFA), making it much more difficult for advertisers to track your activity across different apps and websites.
 {: .step}
 
-Android
+Android Instructions
 {: .label .label-step}
 - Open the **Settings** app.
 - Tap **Privacy**
