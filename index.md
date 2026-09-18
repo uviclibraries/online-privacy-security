@@ -5,7 +5,7 @@ nav_order: 1
 ---
 <img src="images/phone-listen-logo.png" style="float:right;width:250px;" alt="decorative">
 
-# Is Your Smartphone Listening to You? How Data Brokers Sell Your Digital Footprint & How to Stop It
+# Is Your Smartphone Listening to You? How Big Tech Sells Your Data & How to Stop Them
 
 - Pre-workshop activities: 10 min 
 - Introductory presentation: 20 min
