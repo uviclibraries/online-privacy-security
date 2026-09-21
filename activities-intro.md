@@ -3,7 +3,7 @@ layout: default
 title: Self-Directed Introduction
 nav_order: 3
 ---
-# Introduction for Self-Directed Stduents
+# Introduction for Self-Directed Learners
 
 If you are working through this workshop on your own, please do the following before you start on the hands-on activities:
 - Review the following [Introductory Slides](https://docs.google.com/presentation/d/1H-GIq6F8ihRWpFIe1Z7VoIMlD3V-LtrDHA0lRXqJcPA/){:target="_blank"}:
