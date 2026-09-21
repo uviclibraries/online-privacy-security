@@ -26,10 +26,11 @@ Alternatively, you can use a privacy service such as [**Incogni**](https://incog
 - Keep in mind that new information can be collected over time, so you may need to repeat this process periodically.
 
 <img src="images/4-cover-tracks.png" style="float:right;width:400px;" alt="decorative">
+
 ## Check How "Unique" Your Browser Looks to a Tracker
 
-1. You can visit the EFF's [Cover Your Tracks](https://coveryourtracks.eff.org/){:target="_blank"} tool.
+1. You can visit the EFF's [Cover Your Tracks](https://coveryourtracks.eff.org/){:target="_blank"} tool to find out how unique your browser appears to the websites you visit. 
 2. Upon visiting the site, click the **TEST YOUR BROWSER** button.
-3. It will then give you a report on how well you're currently protected against fingerprinting.
+3. It will then give you a report on how well you're currently protected against fingerprinting. To learn more about browser fingerprinting and browser tracking make sure to click on the green **Learn More** button.
 
 [NEXT STEP: Have You Been Pwned?](5-pwned.html){: .btn .btn-blue }
