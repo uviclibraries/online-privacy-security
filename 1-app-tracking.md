@@ -21,23 +21,23 @@ Many popular apps collect information about your activity and sell it with adver
 
 iPhone Instructions
 {: .label .label-step}
-- Open the **Settings** app.
-- Scroll down and tap **Privacy & Security**.<br>
+1. Open the **Settings** app.
+2. Scroll down and tap **Privacy & Security**.<br>
    <img src="images/1-app-tracking-1.jpg" style="width:220px;" alt="privacy and security"> 
-- Tap **Tracking**.<br>
+3. Tap **Tracking**.<br>
    <img src="images/1-app-tracking-2.jpg" style="width:220px;" alt="tracking"> 
-- Toggle off **Allow Apps to Request to Track**. Your screen should look like the image below:<br>
+4. Toggle off **Allow Apps to Request to Track**. Your screen should look like the image below:<br>
    <img src="images/1-app-tracking-3.jpg" style="width:220px;" alt="toggle off"> 
-- This prevents apps from accessing your device's unique Advertising ID (IDFA), making it much more difficult for advertisers to track your activity across different apps and websites.
+5. This prevents apps from accessing your device's unique Advertising ID (IDFA), making it much more difficult for advertisers to track your activity across different apps and websites.
 {: .step}
 
 Android Instructions
 {: .label .label-step}
-- Open the **Settings** app.
-- Tap **Privacy**
-- Select **Ads**
-- Tap **Delete Advertising ID**.
-- Confirm that you want to delete your Advertising ID
+1. Open **Chrome** on your device.
+2. To the right of the address bar, tap the main menu button which is **vertical three dots**, and then tap **Settings**.
+3. Tap **Privacy and security**.
+4. Tap **Send a Do Not Track request**.
+5. Turn the setting **On**.
 
 This makes it significantly more difficult for advertisers and data brokers to link your activity across different apps.
 {: .step}
