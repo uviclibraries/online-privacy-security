@@ -25,8 +25,8 @@ Alternatively, you can use a privacy service such as [**Incogni**](https://incog
 - Removing your information from data broker databases reduces the amount of personal information available for advertising, profiling, and identity matching.
 - Keep in mind that new information can be collected over time, so you may need to repeat this process periodically.
 
-## Check How "Unique" Your Browser Looks to a Tracker
 <img src="images/4-cover-tracks.png" style="float:right;width:400px;" alt="decorative">
+## Check How "Unique" Your Browser Looks to a Tracker
 
 1. You can visit the EFF's [Cover Your Tracks](https://coveryourtracks.eff.org/){:target="_blank"} tool.
 2. Upon visiting the site, click the **TEST YOUR BROWSER** button.
