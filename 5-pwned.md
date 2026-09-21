@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-<img src="images/5-have-i-been-pwned-logo.png" style="float:right;width:250px;" alt="Have I Been Pwned">
+<img src="images/5-have-i-been-pwned-logo.jpg" style="float:right;width:300px;" alt="decorative">
 
 # Activity 5: Have You Been Pwned?
 
