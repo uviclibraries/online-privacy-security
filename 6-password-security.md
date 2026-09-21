@@ -45,7 +45,7 @@ If you have any questions or get stuck, please ask the instructor for assistance
 
 ### Part 3: Explore Using a Password Manager
 
-<img src="images/6-passwords-app-logo.jpg" style="float:right;width:200px;" alt="decorative">
+<img src="images/6-passwords-app-logo.jpg" style="float:right;width:100px;" alt="decorative">
 
 9. If you use both an **iPhone and a Mac computer**, consider using Apple's built in password manager called **Passwords.**
     - Saving your passwords and passkeys in the Apple password manager will allow you to access them on both your iPhone and Mac computer with ease.
