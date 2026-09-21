@@ -43,11 +43,18 @@ If you have any questions or get stuck, please ask the instructor for assistance
 8. If the website does not support a passkey, check whether it supports **two-factor authentication (2FA)**.
 9. If 2FA is available, follow the website's instructions to enable it.
 
-### Part 3: Explore a Password Manager
+### Part 3: Explore Using a Password Manager
 
-9. Open the password manager built into your device, or visit [**Bitwarden**](https://bitwarden.com/){:target="_blank"} to learn more about using a password manager.
-10. Explore how a password manager can generate strong, unique passwords for your accounts.
-11. Notice that you only need to remember the password for your password manager rather than memorizing a different password for every website.
+<img src="images/6-passwords-app-logo.jpg" style="float:right;width:200px;" alt="decorative">
+
+9. If you use both an **iPhone and a Mac computer**, consider using Apple's built in password manager called **Passwords.**
+    - Saving your passwords and passkeys in the Apple password manager will allow you to access them on both your iPhone and Mac computer with ease.
+    - To open the Apple password manager on your MacBook, go to the **Finder** or File Manager, and look in your **Applications** folder for the **Passwords app**.
+    - Explore how a password manager can generate strong, unique passwords for your accounts.
+11. If you use a Windows computer then you should visit [**Bitwarden**](https://bitwarden.com/){:target="_blank"} to learn more about using their high quality free password manager.
+    - You will need to install a **Bitwarden plugin** for your laptop web browser.
+    - Explore how a password manager can generate strong, unique passwords for your accounts.
+    - Notice that you only need to remember the password for your password manager rather than memorizing a different password for every website.
 
 ### Reflection
 
