@@ -17,7 +17,7 @@ In this activity, you'll check whether your email address has appeared in any kn
 1. Go to the [**Have I Been Pwned** website](https://haveibeenpwned.com/){:target="_blank"}.
 2. Enter an email address that you are comfortable checking.<br>
     ![Have I Been Pwned search page](images/5-pwned-1.png)
-3. Click **"Check my email."**
+3. Click on the blue **Check** button.
 4. Review the results.
 5. If your email address appears in a data breach, look at the **breach names and dates** listed.<br>
     ![Have I Been Pwned results](images/5-pwned-2.png)
