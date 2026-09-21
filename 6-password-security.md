@@ -29,8 +29,9 @@ If you have any questions or get stuck, please ask the instructor for assistance
 
 ## Part 2: Explore Your Account's Security Settings
 
-4. Open the account's **Security**, **Privacy**, or **Account Settings**.
-5. Look for options such as:
+4. Go to the app or websites that you want to strengthen your password for.
+5. Open your account's **Security**, **Privacy**, or **Account Settings**. websites and apps put them in different places, so if you're having trouble finding it, ask your instructor, or if you are working thought this activity on your own you might want to ask your favourite GenAI tool where to find the settings for the website you're on.
+6. Look for options such as:
     - **Change Password**
     - **Passkey**
     - **Two-Factor Authentication**
@@ -38,9 +39,9 @@ If you have any questions or get stuck, please ask the instructor for assistance
 
     ![Account security settings](images/6-password-security-1.png)
 
-6. If the website supports a **passkey**, consider setting one up.
-7. If the website does not support a passkey, check whether it supports **two-factor authentication (2FA)**.
-8. If 2FA is available, follow the website's instructions to enable it.
+7. If the website supports a **passkey**, consider setting one up.
+8. If the website does not support a passkey, check whether it supports **two-factor authentication (2FA)**.
+9. If 2FA is available, follow the website's instructions to enable it.
 
 ### Part 3: Explore a Password Manager
 
