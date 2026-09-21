@@ -34,10 +34,16 @@ iPhone Instructions
 Android Instructions
 {: .label .label-step}
 1. Open **Chrome** on your device.
-2. To the right of the address bar, tap the main menu button which is **vertical three dots**, and then tap **Settings**.
-3. Tap **Privacy and security**.
-4. Tap **Send a Do Not Track request**.
-5. Turn the setting **On**.
+2. To the right of the address bar, tap the main menu button which is **vertical three dots**.
+<img src="images/1-androis-1.jpg" style="width:300px;" alt="decorative">
+2. Then tap **Settings**.
+<img src="images/1-androis-2.jpg" style="width:300px;" alt="decorative">
+4. Tap **Privacy and security**.
+<img src="images/1-androis-3.jpg" style="width:300px;" alt="decorative">
+6. Tap **Send a Do Not Track request**.
+<img src="images/1-androis-4.jpg" style="width:300px;" alt="decorative">
+8. Turn the setting **On**.
+<img src="images/1-androis-5.jpg" style="width:400px;" alt="decorative">
 
 This makes it significantly more difficult for advertisers and data brokers to link your activity across different apps.
 {: .step}
