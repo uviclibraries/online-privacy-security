@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-<img src="images/6-password-security-logo.png" style="float:right;width:300px;" alt="password security">
+<img src="images/6-password-security-logo.png" style="float:right;width:400px;" alt="decorative">
 
 # Activity 6: Strengthen Your Passwords
 
@@ -16,45 +16,36 @@ Password managers, passkeys, and two-factor authentication (2FA) can help protec
 
 If you have any questions or get stuck, please ask the instructor for assistance.
 
-### Part 1: Check Your Password Habits
+## Part 1: Check Your Password Habits
 
 1. Think of three online accounts that you use regularly.
-
 2. Without writing down or sharing your actual passwords, consider the following questions for each account:
-
     - Do I use the same password on another website?
     - Is my password a variation of another password I use?
     - Does my password contain information that someone could easily find about me?
     - Is my password long and difficult to guess?
     - Does this account offer a password manager, passkey, or 2FA?
-
 3. Choose **one account** that you would like to make more secure.
 
-### Part 2: Explore Your Account's Security Settings
+## Part 2: Explore Your Account's Security Settings
 
 4. Open the account's **Security**, **Privacy**, or **Account Settings**.
-
 5. Look for options such as:
-
     - **Change Password**
     - **Passkey**
     - **Two-Factor Authentication**
     - **Multi-Factor Authentication**
 
-    ![Account security settings](images/6-password-1.png)
+    ![Account security settings](images/6-password-security-1.png)
 
 6. If the website supports a **passkey**, consider setting one up.
-
 7. If the website does not support a passkey, check whether it supports **two-factor authentication (2FA)**.
-
 8. If 2FA is available, follow the website's instructions to enable it.
 
 ### Part 3: Explore a Password Manager
 
 9. Open the password manager built into your device, or visit [**Bitwarden**](https://bitwarden.com/){:target="_blank"} to learn more about using a password manager.
-
 10. Explore how a password manager can generate strong, unique passwords for your accounts.
-
 11. Notice that you only need to remember the password for your password manager rather than memorizing a different password for every website.
 
 ### Reflection
