@@ -7,7 +7,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
 # Switch to a Privacy-First Browser
-<img src="images/2-shielded-browser-logo.png" style="float:right;width:350px;" alt="decorative"> 
+<img src="images/2-shielded-browser-logo.png" style="float:right;width:400px;" alt="decorative"> 
 
 Standard browsers (like Chrome) are designed to facilitate tracking so that Google and others can target advertising more effectively and earn more money. Switching to a privacy-first browser can stop them from creating **Browser Fingerprints** for you by default, and reduce their ability to track you.
 
@@ -15,14 +15,14 @@ If you have any questions or get stuck, please ask the instructor for assistance
 
 ## Browsers
 
-- Open your current web browser and visit a website for one of both of the following privacy-focused browsers:
+1. Open your current web browser and visit a website for one of both of the following privacy-focused browsers:
   - [**Brave**](https://brave.com/download/){:target="_blank"}
   - [**Firefox**](https://www.firefox.com/en-CA/){:target="_blank"} 
-- Both **Brave** & **Firefox** include built-in protections that “randomize” your browser fingerprint
-- Download and install either **Brave** & **Firefox**
-- Open the new browser once the installation is complete
+2. Both **Brave** & **Firefox** include built-in protections that “randomize” your browser fingerprint
+3. Download and install either **Brave** & **Firefox**
+4. Open the new browser once the installation is complete
 
-<img src="images/2-shielded-browser-1.png" style="float:right;width:350px;" alt="decorative">
+<img src="images/2-shielded-browser-1.png" style="float:right;width:400px;" alt="decorative">
 
 ## Must-Have Extensions 
  
