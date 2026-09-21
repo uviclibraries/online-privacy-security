@@ -5,7 +5,7 @@ nav_order: 10
 ---
 # Additional Resources & Acknowledgements
 
-## Is Your Smartphone Listening to You? How Big Tech Sells Your Data & How to Stop Them
+## Workshop: Is Your Smartphone Listening to You? How Big Tech Sells Your Data & How to Stop Them
 
 ## Acknowledgements
 
