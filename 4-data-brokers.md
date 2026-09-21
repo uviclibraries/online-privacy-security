@@ -7,14 +7,13 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
 # Evict Yourself from Data Broker Databases
-<img src="images/4-data-brokers-logo.png" style="float:right;width:350px;" alt="data brokers"> 
+<img src="images/4-data-brokers-logo.png" style="float:right;width:400px;" alt="data brokers"> 
 
 Even if you stop tracking today, data brokers already have years of your history. You can force them to delete it.
 
 ## The Manual Way 
 
 - Visit the opt-out page for a major data broker, such as [**Acxiom**](https://www.acxiom.com/optout/) or [**Epsilon**](https://legal.epsilon.com/optout)
-    ![Data broker opt out](images/databroker-02.png)
 - Follow the instructions to submit an opt-out request
   
 **NOTE:** This is a time-consuming process but it's a great free option
