@@ -30,4 +30,4 @@ At the end of this workshop, you will have:
 5. **Find Out if Any of Your Passwords Have Been Hacked**: Used the _Have I Been Pwned_ website to find out if any of your passwords have been leaked by websites and start to change the passwords using a password manager.
 6. **Use a Password Manager:** Installed a password manager (such as Bitwarden or Apple's Passwords app), & generated at least three unique, random credentials for your existing online accounts.
  
-[NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
+[NEXT STEP: Workshop Activities](workshop-activities.html){: .btn .btn-blue }
