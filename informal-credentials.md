@@ -7,4 +7,4 @@ nav_order: 10
 
 # UNDER CONSTRUCTION: Informal Credentials or Digital Badges
 
-[NEXT STEP: Additional Resources](additional-resources.html){: .btn .btn-blue }
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
