@@ -35,4 +35,4 @@ If you have any questions or get stuck, please ask the instructor for assistance
 
 Harper can be useful for people who work with sensitive documents because it runs locally rather than requiring the document to be sent to a cloud-based grammar-checking service.
 
-[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
+[NEXT STEP: Additional Resources](additional-resources.html){: .btn .btn-blue }
